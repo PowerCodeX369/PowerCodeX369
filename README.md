@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack web applications using React and Node.js, and developing automation tools powered by AI.<br>
 <p align="center">
   <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" alt="gif" width="350px" height="120px">
 </p>
+🔭 I’m currently working on building full-stack web applications using React and Node.js, and developing automation tools powered by AI.<br>
+
 <br>👯 I’m looking to collaborate on open-source web tools, automation scripts.<br><br>🌱 I’m currently learning advanced React patterns, backend integrations, and AI implementation in real-world apps.<br><br>💬 Ask me about web development, networking, linux and other IT related things.<br><br>⚡ Fun fact: I’m also a photographer and cinematographer – storytelling through visuals inspires how I design websites!<br>
 
 
